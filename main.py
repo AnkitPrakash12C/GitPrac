@@ -1,4 +1,5 @@
 print("Hello World")
 print("Hello Git")
 print("Hello Python")
-print("Hello JavaS")
+print("Hello JavaScript")
+print("Hello Java")
